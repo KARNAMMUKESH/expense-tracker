@@ -1,0 +1,7 @@
+com\example\demo\Repository\userRepo.class
+com\example\demo\ExpenseTrackerApplication.class
+com\example\demo\Models\category.class
+com\example\demo\Models\espense.class
+com\example\demo\Repository\categoryRepo.class
+com\example\demo\Models\User.class
+com\example\demo\Repository\expenseRepo.class
